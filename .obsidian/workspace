@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "👩‍🌾 Your Knowledge Garden.md",
+            "file": "📇 Terms/🧠 Knowledge Systems/🌳 Digital Garden.md",
             "mode": "source"
           }
         }
@@ -33,8 +33,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "e2522defbdad32c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7809a0592f8db2af",
@@ -84,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "👩‍🌾 Your Knowledge Garden.md",
+                "file": "📇 Terms/🧠 Knowledge Systems/🌳 Digital Garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "👩‍🌾 Your Knowledge Garden.md"
+                "file": "📇 Terms/🧠 Knowledge Systems/🌳 Digital Garden.md"
               }
             }
           },
@@ -111,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "👩‍🌾 Your Knowledge Garden.md",
+                "file": "📇 Terms/🧠 Knowledge Systems/🌳 Digital Garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +143,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "👩‍🌾 Your Knowledge Garden.md",
+                "file": "📇 Terms/🧠 Knowledge Systems/🌳 Digital Garden.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -162,9 +171,32 @@
                 }
               }
             }
+          },
+          {
+            "id": "929c734acc26db34",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {}
+            }
+          },
+          {
+            "id": "2f9b58c127a921fb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a0554eaf72257c78",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,15 +204,15 @@
   },
   "active": "828e17397f6a51f2",
   "lastOpenFiles": [
-    "👩‍🌾 Your Knowledge Garden.md",
-    "📇 Terms/🪨 Obsidian/Link.md",
+    "📇 Terms/🧠 Knowledge Systems/🌳 Digital Garden.md",
     "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🌱 Planting Seeds.md",
-    "👨‍👧‍👦 People/👨🏻‍🌾 Bob.md",
-    "👩‍🌾 Gardening Tips/🪨 Obsidian/🗂 Obsidian File Struture.md",
-    "👨‍👧‍👦 People.md",
-    "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🏭  Project Stucture.md",
-    "⏰ ToDo Lists.md",
-    "⏣ Templates/🪛 Todo List.md",
-    "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🎯  Create Custom Dashboards.md"
+    "📚 Reading.md",
+    "⏣ Templates/📙 New Reading Item.md",
+    "⏣ Templates/👤 New Person.md",
+    "⏣ Templates/▶️ Basic Kanban.md",
+    "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🎯  Create Custom Dashboards.md",
+    "⏣ Templates/📰 New Dashboard.md",
+    "⏣ Templates/🔖 New Term.md",
+    "📇 Terms/💡 Concepts/Connection.md"
   ]
 }
