@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📇 Terms/🧠 Knowledge Systems/🌳 Digital Garden.md",
+            "file": "👩‍🌾 Gardening Tips/🪨 Obsidian/🗂 Obsidian File Struture.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "70bbdf0285090c8d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "⏣ Templates/📰 New Dashboard.md",
             "mode": "source"
           }
         }
@@ -64,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#knowledge-systems",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📇 Terms/🧠 Knowledge Systems/🌳 Digital Garden.md",
+                "file": "⏣ Templates/📰 New Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📇 Terms/🧠 Knowledge Systems/🌳 Digital Garden.md"
+                "file": "⏣ Templates/📰 New Dashboard.md"
               }
             }
           },
@@ -120,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📇 Terms/🧠 Knowledge Systems/🌳 Digital Garden.md",
+                "file": "⏣ Templates/📰 New Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📇 Terms/🧠 Knowledge Systems/🌳 Digital Garden.md",
+                "file": "⏣ Templates/📰 New Dashboard.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -202,17 +213,17 @@
     "direction": "horizontal",
     "width": 305.5
   },
-  "active": "828e17397f6a51f2",
+  "active": "70bbdf0285090c8d",
   "lastOpenFiles": [
-    "📇 Terms/🧠 Knowledge Systems/🌳 Digital Garden.md",
-    "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🌱 Planting Seeds.md",
-    "📚 Reading.md",
-    "⏣ Templates/📙 New Reading Item.md",
-    "⏣ Templates/👤 New Person.md",
-    "⏣ Templates/▶️ Basic Kanban.md",
-    "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🎯  Create Custom Dashboards.md",
     "⏣ Templates/📰 New Dashboard.md",
-    "⏣ Templates/🔖 New Term.md",
-    "📇 Terms/💡 Concepts/Connection.md"
+    "⏣ Templates/🗒 Basic Note.md",
+    "⏣ Templates/👤 New Person.md",
+    "👨‍👧‍👦 People.md",
+    "👨‍👧‍👦 People/🧑🏻‍💻 Tane Piper.md",
+    "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🏷 Using Tags.md",
+    "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🏭  Project Stucture.md",
+    "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🎯  Create Custom Dashboards.md",
+    "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🌱 Planting Seeds.md",
+    "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/⚠️ Statuses.md"
   ]
 }
