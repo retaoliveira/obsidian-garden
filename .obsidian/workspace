@@ -7,21 +7,17 @@
         "id": "828e17397f6a51f2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "👩‍🌾 Gardening Tips/🪨 Obsidian/🗂 Obsidian File Struture.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       },
       {
         "id": "70bbdf0285090c8d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "⏣ Templates/🔬 New Research.md",
-            "mode": "source"
+            "file": "⏣ Templates/▶️ Basic Kanban.md"
           }
         }
       }
@@ -104,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⏣ Templates/🔬 New Research.md",
+                "file": "⏣ Templates/▶️ Basic Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⏣ Templates/🔬 New Research.md"
+                "file": "⏣ Templates/▶️ Basic Kanban.md"
               }
             }
           },
@@ -131,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⏣ Templates/🔬 New Research.md",
+                "file": "⏣ Templates/▶️ Basic Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "⏣ Templates/🔬 New Research.md",
+                "file": "⏣ Templates/▶️ Basic Kanban.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -215,15 +211,15 @@
   },
   "active": "70bbdf0285090c8d",
   "lastOpenFiles": [
+    "⏣ Templates/▶️ Basic Kanban.md",
+    "Snippets/Good Day.md",
+    "⏰ ToDo Lists.md",
     "⏣ Templates/🔬 New Research.md",
     "⏣ Templates/🗓 Daily Note.md",
     "⏣ Templates/🗒 Basic Note.md",
     "⏣ Templates/🔗 New Link.md",
     "⏣ Templates/🔖 New Term.md",
     "⏣ Templates/📙 New Reading Item.md",
-    "CHANGELOG.md",
-    "🪴 Grow Room.md",
-    "📚 Reading.md",
-    "📇 Glossary.md"
+    "CHANGELOG.md"
   ]
 }
